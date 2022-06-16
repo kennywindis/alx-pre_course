@@ -1,1 +1,2 @@
-echo git pull 
+echo "git pull">up_to_date
+f8927a9f128c3d5184806c50ee73bb09cf0abcb
